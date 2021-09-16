@@ -33,7 +33,7 @@ This way the audience can see the progression of the code in steps if they wish 
 
 We have also mapped out visually the file system schema for the site files as seen below:
 
-
+```
 Traversey-Media-HTML-04/
 ├── .git/
 ├── acme/
@@ -58,3 +58,4 @@ Traversey-Media-HTML-04/
 ├── .gitignore
 ├── LICENSE.md
 └── README.md
+```
