@@ -12,11 +12,6 @@ body {
 	overflow: hidden;
 }
 
-ul {
-	margin: 0;
-	padding: 0;
-}
-
 /* Header */
 
 header {
@@ -34,9 +29,9 @@ header a {
 	font-size: 16px;
 }
 
-header a:hover {
-	color: #cccccc;
-	font-weight: bold;
+header ul {
+	margin: 0;
+	padding: 0;
 }
 
 header li {
@@ -50,17 +45,11 @@ header #branding {
 }
 
 header #branding h1 {
-	margin: 0;
+	margin:0;
 }
 
 header nav {
 	float: right;
 	margin-top: 10px;
-
-}
-
-header .highlight, header .current a {
-	color: #e8491d;
-	font-weight: bold;
 
 }
