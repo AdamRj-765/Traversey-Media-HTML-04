@@ -8,6 +8,12 @@ I have re-created the site files for Traversy Media's popular YouTube video "Bui
 CODE DOWNLOAD:
 https://www.traversymedia.com/download/...
 
+I actually found the URL for the download as being this that DOES work:
+
+http://www.traversymedia.com/downloads/acme_website.zip
+
+That link does not work from YouTube but will work if you use the link above as it will download a zip file with the original site files provided by Traversy Media
+
 
 The video is located here and is still viewable:
 https://www.youtube.com/watch?v=Wm6CUkswsNw&t=8s&ab_channel=TraversyMedia
